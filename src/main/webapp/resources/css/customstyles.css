@@ -1,0 +1,12 @@
+.btn-circle-sm {
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    padding: 2px 0;
+    font-size: 15px;
+    line-height: 1;
+    border-radius: 30px;
+    margin-top: 11px;
+    margin-right: 7px;
+    margin-left: 12px;
+}
